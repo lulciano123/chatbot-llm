@@ -26,3 +26,5 @@ The chatbot is built with **Python**, **Streamlit**, and **Ollama**, providing a
 - 🧰 **Extensible architecture** — easy to integrate new models or APIs later  
 
 ---
+
+Still in development...
